@@ -1,6 +1,6 @@
 # <h1 align='center'> <font color='royalblue'><font size=6>🚲🚴‍♂️YULU_Bikes - Business CaseStudy🚴‍♂️🚲</font> </font></h1>
 <h1 align='center'><font color='royalblue'><font size=6>Hypothesis Testing</font> </font></h1>
-<h2 align='right'>Analysed by : <font color='green'><b> KASI</b></font></h2>
+<h2 align='right'>Analysed by : <font color='green'><b> ANCHAL </b></font></h2>
 
 <kbd>![yulu-bike](https://github.com/KasiMuthuveerappan/Yulu_CaseStudy/assets/142071405/fc37879c-1e79-4f71-8dce-d818883aa590)</kbd>
 
