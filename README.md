@@ -67,7 +67,7 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 |:--------|:------------|
 |datetime| datetime |  
 |season| season (1: spring, 2: summer, 3: fall, 4: winter)|
-|holiday| whether day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)|
+|holiday| whether day is a holiday or not|
 |workingday| if day is neither weekend nor holiday is 1, otherwise is 0.|
 |temp| temperature in Celsius|
 |atemp| feeling temperature in Celsius|
